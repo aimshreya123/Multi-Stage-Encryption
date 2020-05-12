@@ -1,1 +1,1 @@
-# Multi-Stage-Encryption
+# Multi-Stage-Encryption (for files)
